@@ -1,0 +1,7 @@
+{
+  "name": "@stealify/electron",
+  "version": "0.0.0-pre.0",
+  "scripts": { "preinstall": "npm i electron --ignore-scripts --no-save" }
+  "main": "electron.js",
+  "types": "node_modules/electron.d.ts"
+}
